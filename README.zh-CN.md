@@ -2,6 +2,8 @@
 
 [English](README.md) | 简体中文
 
+正式 **2.0.0** [Release](https://github.com/onhandcore/OnHandTaskBlocks/releases/tag/v2.0.0) · [下载 ZIP](https://github.com/onhandcore/OnHandTaskBlocks/releases/download/v2.0.0/OnHandTaskBlocks-2.0.0-windows-x64-rc8.zip) · [SHA256 文件](https://github.com/onhandcore/OnHandTaskBlocks/releases/download/v2.0.0/OnHandTaskBlocks-2.0.0-windows-x64-rc8.zip.sha256)。实际公开时间：2026-10-24T17:33:03Z（UTC）。
+
 OnHandTaskBlocks 是面向 AI Host 的可视化任务炮台：把任务整理成可编辑的积木、确认计划，再控制投送、查看进度、选择结果和恢复工单，让多步骤工作有清楚的操作入口。
 
 ## 从任务到可追踪的结果

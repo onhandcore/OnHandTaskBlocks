@@ -2,6 +2,8 @@
 
 English | [简体中文](README.zh-CN.md)
 
+Official **2.0.0** [Release](https://github.com/onhandcore/OnHandTaskBlocks/releases/tag/v2.0.0) · [Download ZIP](https://github.com/onhandcore/OnHandTaskBlocks/releases/download/v2.0.0/OnHandTaskBlocks-2.0.0-windows-x64-rc8.zip) · [SHA256 file](https://github.com/onhandcore/OnHandTaskBlocks/releases/download/v2.0.0/OnHandTaskBlocks-2.0.0-windows-x64-rc8.zip.sha256). Published: 2026-10-24T17:33:03Z (UTC).
+
 OnHandTaskBlocks is a visual task console for AI Hosts. Turn work into editable task blocks, confirm a plan, control delivery, track progress, select results, and recover work orders through one visible workflow.
 
 ## From a task to traceable results
